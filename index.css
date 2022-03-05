@@ -1,0 +1,169 @@
+body{
+    background-color: grey;
+}
+.box{
+    border: 10px solid orangered;
+    border-radius: 20px;
+    margin: 0px 600px ;
+    padding: 20px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    text-shadow: 3px 3px 5px;
+    text-align: center;
+    box-shadow: 5px 5px violet;
+    position: relative;
+    right: 10%;
+    font-style: italic;
+    background-color: white;
+    width: 450px;
+    line-height: 45px;
+}
+.container2{
+    border: 10px solid green;
+    padding: 5px;
+    height: 700px;
+}
+.item1{
+    position: absolute;
+    top: 32.5%;
+    left: 1.2%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 55px;
+    font-weight: bolder;
+    border: 7px solid red;
+    width: 234px;
+    background-color: white;
+    height: 250px;
+    border-radius: 15px;
+    text-shadow: 1px 2px 3px black;
+    box-shadow: 8px 8px purple;
+}
+.box1{
+    margin-top: 10px;
+}
+.item2{
+    position: absolute;
+    top: 32.5%;
+    left: 78%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 55px;
+    font-weight: bolder;
+    border: 7px solid red;
+    width: 234px;
+    background-color: white;
+    height: 250px;
+    border-radius: 15px;
+    text-shadow: 1px 2px 3px black;
+    box-shadow: 8px 8px purple;
+}
+.fruit{
+margin-top: 40px;
+border: 2px solid black;
+}
+.item3{
+    position: absolute;
+    top: 80%;
+    left: 1.2%;
+    text-align: left;
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: bolder;
+    border: 7px solid red;
+    width: 234px;
+    background-color: white;
+    height: 250px;
+    border-radius: 15px;
+    text-shadow: 1px 2px 3px black;
+    box-shadow: 8px 8px purple;
+    
+}
+.box2{
+    position: absolute;
+    top: 2%;
+    
+    font-size: 26px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px black;
+}
+.item4{
+    position: absolute;
+    top: 80%;
+    left: 78%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: bolder;
+    border: 7px solid red;
+    width: 234px;
+    background-color: white;
+    height: 250px;
+    border-radius: 15px;
+    text-shadow: 1px 2px 3px black;
+    box-shadow: 8px 8px purple;
+}
+.submit-input{
+   background-color: red
+}
+.end{
+    width: 700px;
+    background-color: green;
+    border: 10px solid purple;
+    text-align: center;
+    margin-left: 400px;
+}
+.items{
+    width: 340px;
+    height: 260px;
+    border: 1px solid violet;
+    display: inline-block;
+    background-color: yellow;
+    line-height: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+.fruits{
+    position: relative;
+    
+}
+.veg{
+    position: relative
+    
+}
+.other{
+    position: relative;
+    left: 4px;
+    top: -10px;
+    width: 707px;
+ 
+}
+.container3{
+    border: 7px solid red;
+    background-color: greenyellow;
+    border-radius: 15px;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 480px;
+    left: 470px;
+    text-align: center;
+    font-style: italic;
+    color: red;
+    box-shadow: 7px 7px purple;
+   
+}
+.left{
+    float: left;
+    width: 300px;
+    font-size: 25px;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+.right{
+    font-size: 20px;
+    padding-top: 18px;
+    font-weight: bolder;
+}
